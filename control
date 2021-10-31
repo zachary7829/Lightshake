@@ -1,0 +1,8 @@
+Package: com.zachary7829.lightshake
+Name: Lightshake
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Shake to toggle flashlight
+Maintainer: zachary7829
+Author: zachary7829
+Section: Tweaks
